@@ -1,0 +1,26 @@
+{
+  "name": "6to5_vs_traceur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zxcabs/6to5_vs_traceur.git"
+  },
+  "author": "Evgeny Reznichenko <kusakyky@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxcabs/6to5_vs_traceur/issues"
+  },
+  "homepage": "https://github.com/zxcabs/6to5_vs_traceur",
+  "dependencies": {
+    "6to5-loader": "^3.0.0",
+    "6to5-runtime": "^3.5.3",
+    "compression-webpack-plugin": "^0.1.2",
+    "traceur-loader": "^0.6.3",
+    "webpack": "^1.5.3"
+  }
+}
